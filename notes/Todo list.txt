@@ -1,0 +1,56 @@
+
+hey
+https://www.youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh
+---
+ref
+:
+https://www.youtube.com/playlist?list=PLDoPjvoNmBAxXTPncg0W4lhVS32LO_xtQ
+
+
+
+Tasks:
+----------------------------------------------------
+reading: 
+
+diff between 
+require 
+include 
+include once 
+
+diff between
+fatal error
+warning error
+notice error
+
+1-m , mm relation database
+
+https://www.pluralsight.com/
+
+oop php  <-
+design patterns mvc <-
+
+--------------------------------------------------------
+todo:
+
+
+Image size done
+admin privliges done
+no data available -> admin panel  done
+
+new column in users talbe -> img name           done
+new column in online table -> video name      done 
+when you insert take the name and put it into img name column/video name column
+when you call it prefix the url src="htdocks/videos/{onlineObj['video_name']}"
+check if the uploaded img/video name already exists , edit the name then insert it 
+(function to generate random numbers) done
+
+new column in the attend table -> slider_images
+create new attend course ( 3 upload )
+take the three names and implode them so they will be like 1,2,3 / take rthe 3 strings and put them into concat $x = $i.",".$t.",".$y; and put this into slider_images
+when you calling them explode(",", $x) and foreach them on the slider html  done
+
+
+----------------------------------------------------------------
+
+
+

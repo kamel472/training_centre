@@ -1,0 +1,25 @@
+- require(): 
+If an error occurs, generates a fatal error, and the script will stop.
+
+
+- include():
+If an error occurs, generates a warning, but the script will continue execution
+if you want the execution to go on and show users the output, even if the include file is missing, use the include statement.
+
+- The require_once() statement is identical to require() except PHP will check if the file has already been included, and if so, not include (require) it again
+---------------------------------------------------------------------------------------------------------------------------------------
+
+- fatal error: where PHP compiler understand the PHP code but it recognizes an undeclared function and crash your program.
+- warning error:  The main reason of these errors are including a missing file
+- notice error: It means that the program contains something wrong but it allows the execution of script.
+- parse error/syntax error: is caught by the compiler (e.g. missing semicolon)
+
+
+
+
+1-m , mm relation database
+
+
+
+
+Oleg Byonic - Oleg Byonic - Light Up The Sky
